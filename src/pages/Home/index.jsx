@@ -1,3 +1,4 @@
+import React from "react"
 import { FiPlus, FiSearch } from "react-icons/fi"
 import { Container, Brand, Menu, Search, Content, NewNote } from "./styles"
 import { Header } from "../../Components/Header"

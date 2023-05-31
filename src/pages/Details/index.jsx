@@ -1,9 +1,11 @@
+import React from "react"
 import { Container, Links, Content } from "./styles"
 import { Header } from "../../Components/Header"
 import { Button } from "../../Components/Button"
 import { Section } from "../../Components/Section"
 import { Tag } from "../../Components/Tag"
 import { ButtonText } from "../../Components/ButtonText"
+
 
 export function Details() {
   return (
